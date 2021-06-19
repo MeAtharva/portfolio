@@ -1,3 +1,3 @@
 # Personal Portfolio Website with React
 
-![](public/images/portfolio.jpeg)
+![](public/images/portfolio.png)
